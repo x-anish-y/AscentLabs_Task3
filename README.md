@@ -2,7 +2,7 @@
 
 A sleek, responsive Pomodoro study timer engineered with strict timestamp delta calculations to eliminate background tab throttling drift. Features customizable focus and break sessions, automatic cycle transitions with audio chimes and celebrations, and persistent daily productivity tracking reset by date.
 
-**Live Demo:** [https://ascent-labs-task3-focus.vercel.app/](https://ascent-labs-task3-focus.vercel.app/) *(or deploy URL)*  
+**Live Demo:** [https://ascent-labs-task3.vercel.app/](https://ascent-labs-task3.vercel.app/)  
 **Repository:** [https://github.com/x-anish-y/AscentLabs_Task3](https://github.com/x-anish-y/AscentLabs_Task3)
 
 ---
